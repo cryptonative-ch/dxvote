@@ -1,2 +1,0 @@
-(this.webpackJsonpdxvote=this.webpackJsonpdxvote||[]).push([[176],{b9uQ:function(n,e){!function(n){n.languages.ignore={comment:/^#.*/m,entry:{pattern:/\S(?:.*(?:(?:\\ )|\S))?/,alias:"string",inside:{operator:/^!|\*\*?|\?/,regex:{pattern:/(^|[^\\])\[[^\[\]]*\]/,lookbehind:!0},punctuation:/\//}}},n.languages.gitignore=n.languages.ignore,n.languages.hgignore=n.languages.ignore,n.languages.npmignore=n.languages.ignore}(Prism)}}]);
-//# sourceMappingURL=176.4d22fb46.chunk.js.map

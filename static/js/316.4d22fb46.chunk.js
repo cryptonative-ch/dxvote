@@ -1,2 +1,0 @@
-(this.webpackJsonpdxvote=this.webpackJsonpdxvote||[]).push([[316],{cFlD:function(t,n){Prism.languages.properties={comment:/^[ \t]*[#!].*$/m,"attr-value":{pattern:/(^[ \t]*(?:\\(?:\r\n|[\s\S])|[^\\\s:=])+?(?: *[=:] *| ))(?:\\(?:\r\n|[\s\S])|[^\\\r\n])+/m,lookbehind:!0},"attr-name":/^[ \t]*(?:\\(?:\r\n|[\s\S])|[^\\\s:=])+?(?= *[=:] *| )/m,punctuation:/[=:]/}}}]);
-//# sourceMappingURL=316.4d22fb46.chunk.js.map
